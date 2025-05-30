@@ -1,0 +1,31 @@
+
+
+#rivers{
+color: green;
+font-size: 50px;
+}
+
+#delta{
+    color: blueviolet;
+    font-size: 50px;
+}
+
+#abuja{
+    color: brown;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+div{
+    border: 2px solid green;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+
+    padding-top: 25x;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
