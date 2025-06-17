@@ -1,0 +1,98 @@
+
+.container{
+    border: 2px solid green;
+    padding: 10px;
+    display: flex;
+    
+}
+
+.left{
+    border: 2px  solid blue;
+    padding: 10px;
+    
+}
+
+.right{
+    border: 2px solid green;
+    padding: 10px;
+    display: flex;
+    margin-left: 10px;
+}
+
+.left1{
+    border: 2px solid yellow;
+    padding: 10px;
+}
+
+.left2{
+    border: 2px solid rgb(243, 2, 211);
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.right1{
+    border: 2px solid rgb(20, 61, 12);
+    padding: 10px;
+}
+
+.right2{
+    border: 2px solid goldenrod;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.logo{
+    border: 60px solid blue;
+}
+
+nav{
+    border: 2px solid purple;
+    padding: 10px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+nav ul li{
+    margin-right: 50px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+nav ul li:hover{
+    color: green;
+    cursor: pointer;
+    font-weight: 1000;
+    border-bottom: 2px solid green;
+    
+}
+
+.login{
+    border: none;
+    background-color: transparent;
+    color: blue;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.signup{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.login:hover{
+    border: 1px solid green;
+    cursor: pointer;
+    font-weight: 800;
+}
